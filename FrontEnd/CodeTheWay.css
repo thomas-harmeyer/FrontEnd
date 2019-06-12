@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Georgia;
+    color: black;
+    font-size: medium;
+}
+
+h1 {
+    font-family: Georgia;
+    font-weight: bold;
+    color: black;
+    font-size: xx-large;
+    text-align:center;
+}
+
+h3 {
+    font-family: Georgia;
+    font-weight: bold;
+    color: #557A95;
+    font-size: x-large;
+}
+
+img{
+    width:300px;
+    height:200px;
+}
+
+.logo {
+    max-width: 10%;
+    height: auto;
+}
+
+a {
+    background-color: #557A95;
+    border: 2px solid #557A95;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: medium;
+    font-family: Georgia;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+    a:hover {
+        background-color: white;
+        color: #557A95;
+    }
