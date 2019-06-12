@@ -67,7 +67,31 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HeroesForHealthcare.html" />
+    <Content Include="Images\Code Review.jpg" />
+    <Content Include="Images\Code The Way - Images.png" />
+    <Content Include="Images\CodeTheWay Logo.png" />
+    <Content Include="Images\Definition of done.jpg" />
+    <Content Include="Images\Hallway.jpg" />
+    <Content Include="Images\Heroes for Healthcare - Images.png" />
+    <Content Include="Images\Heroes Logo.png" />
+    <Content Include="Images\Heroes2.png" />
+    <Content Include="Images\Heroes3.png" />
+    <Content Include="Images\Life Navigators - Images.png" />
+    <Content Include="Images\LifeNavigators1.jpg" />
+    <Content Include="Images\LifeNavigators2.jpg" />
+    <Content Include="Images\Media - Images.png" />
+    <Content Include="Images\Project Management.jpg" />
+    <Content Include="Images\Sprint review-code demo.jpg" />
+    <Content Include="Images\Stand Up.jpg" />
+    <Content Include="Images\Team Learning.jpg" />
+    <Content Include="Images\Team Programming.jpg" />
+    <Content Include="Images\To do list.jpg" />
+    <Content Include="Images\Update.jpg" />
+    <Content Include="Images\Work Time.jpg" />
     <Content Include="Index_Harmeyer.html" />
+    <Content Include="LifeNavigators.html" />
+    <Content Include="Media.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
