@@ -9,7 +9,7 @@ h1 {
     font-weight: bold;
     color: black;
     font-size: xx-large;
-    text-align:center;
+    text-align: center;
 }
 
 h3 {
@@ -19,9 +19,9 @@ h3 {
     font-size: x-large;
 }
 
-img{
-    width:300px;
-    height:200px;
+img {
+    width: 300px;
+    height: 200px;
 }
 
 .logo {
@@ -48,3 +48,29 @@ a {
         background-color: white;
         color: #557A95;
     }
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+    }
+
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 500px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        position: absolute;
+        z-index: 1;
+    }
+
+#vision {
+    display: none;
+}

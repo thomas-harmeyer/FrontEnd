@@ -93,6 +93,7 @@
     <Content Include="LifeNavigators.html" />
     <Content Include="Media.html" />
     <Content Include="CodeTheWay.css" />
+    <Content Include="Scripts.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
